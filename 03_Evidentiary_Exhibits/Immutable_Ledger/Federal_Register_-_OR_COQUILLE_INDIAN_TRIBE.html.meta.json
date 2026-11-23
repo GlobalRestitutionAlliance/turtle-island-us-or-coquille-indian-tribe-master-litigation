@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=OR+COQUILLE+INDIAN+TRIBE",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=OR+COQUILLE+INDIAN+TRIBE",
+  "title": "Federal Register - OR COQUILLE INDIAN TRIBE",
+  "fetched_at": "2026-11-23T17:47:13.299647Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 327907,
+  "sha256": "b4977cc4bc99e92334dd379c6f9c2d47aac2b64ba65ead5978c170c16a645572",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
